@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Riverperson.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="reaperdown0000" x="0" y="0" width="554" height="670"/>
+	<SubTexture name="reaperdown0001" x="554" y="0" width="554" height="666" frameX="0" frameY="-4" frameWidth="554" frameHeight="670"/>
+	<SubTexture name="reaperdown0002" x="1108" y="0" width="554" height="663" frameX="0" frameY="-7" frameWidth="554" frameHeight="670"/>
+	<SubTexture name="reaperdown0003" x="1662" y="0" width="554" height="665" frameX="0" frameY="-5" frameWidth="554" frameHeight="670"/>
+	<SubTexture name="reaperdown0004" x="2216" y="0" width="554" height="666" frameX="0" frameY="-4" frameWidth="554" frameHeight="670"/>
+	<SubTexture name="reaperidle0000" x="2770" y="0" width="795" height="699" frameX="-10" frameY="-3" frameWidth="814" frameHeight="702"/>
+	<SubTexture name="reaperidle0001" x="3565" y="0" width="797" height="697" frameX="-10" frameY="-5" frameWidth="814" frameHeight="702"/>
+	<SubTexture name="reaperidle0002" x="4362" y="0" width="801" height="700" frameX="-9" frameY="-2" frameWidth="814" frameHeight="702"/>
+	<SubTexture name="reaperidle0003" x="5163" y="0" width="804" height="702" frameX="-8" frameY="0" frameWidth="814" frameHeight="702"/>
+	<SubTexture name="reaperidle0004" x="5967" y="0" width="806" height="702" frameX="-8" frameY="0" frameWidth="814" frameHeight="702"/>
+	<SubTexture name="reaperidle0005" x="6773" y="0" width="807" height="701" frameX="-7" frameY="-1" frameWidth="814" frameHeight="702"/>
+	<SubTexture name="reaperidle0006" x="0" y="702" width="805" height="700" frameX="-9" frameY="-2" frameWidth="814" frameHeight="702"/>
+	<SubTexture name="reaperidle0007" x="805" y="702" width="802" height="697" frameX="-11" frameY="-5" frameWidth="814" frameHeight="702"/>
+	<SubTexture name="reaperidle0008" x="1607" y="702" width="800" height="697" frameX="-13" frameY="-5" frameWidth="814" frameHeight="702"/>
+	<SubTexture name="reaperidle0009" x="2407" y="702" width="797" height="697" frameX="-15" frameY="-5" frameWidth="814" frameHeight="702"/>
+	<SubTexture name="reaperidle0010" x="3204" y="702" width="798" height="697" frameX="-14" frameY="-5" frameWidth="814" frameHeight="702"/>
+	<SubTexture name="reaperidle0011" x="4002" y="702" width="799" height="694" frameX="-12" frameY="-8" frameWidth="814" frameHeight="702"/>
+	<SubTexture name="reaperidle0012" x="4801" y="702" width="800" height="691" frameX="-11" frameY="-11" frameWidth="814" frameHeight="702"/>
+	<SubTexture name="reaperidle0013" x="5601" y="702" width="801" height="688" frameX="-10" frameY="-14" frameWidth="814" frameHeight="702"/>
+	<SubTexture name="reaperidle0014" x="6402" y="702" width="802" height="685" frameX="-8" frameY="-17" frameWidth="814" frameHeight="702"/>
+	<SubTexture name="reaperidle0015" x="7204" y="702" width="805" height="682" frameX="-5" frameY="-20" frameWidth="814" frameHeight="702"/>
+	<SubTexture name="reaperidle0016" x="0" y="1402" width="809" height="678" frameX="0" frameY="-24" frameWidth="814" frameHeight="702"/>
+	<SubTexture name="reaperidle0017" x="809" y="1402" width="801" height="684" frameX="-8" frameY="-18" frameWidth="814" frameHeight="702"/>
+	<SubTexture name="reaperidle0018" x="1610" y="1402" width="798" height="690" frameX="-11" frameY="-12" frameWidth="814" frameHeight="702"/>
+	<SubTexture name="reaperidle0019" x="2408" y="1402" width="795" height="695" frameX="-14" frameY="-7" frameWidth="814" frameHeight="702"/>
+	<SubTexture name="reaperidle0020" x="2408" y="1402" width="795" height="695" frameX="-14" frameY="-7" frameWidth="814" frameHeight="702"/>
+	<SubTexture name="reaperidle0021" x="2408" y="1402" width="795" height="695" frameX="-14" frameY="-7" frameWidth="814" frameHeight="702"/>
+	<SubTexture name="reaperidle0022" x="2408" y="1402" width="795" height="695" frameX="-14" frameY="-7" frameWidth="814" frameHeight="702"/>
+	<SubTexture name="reaperidle0023" x="2408" y="1402" width="795" height="695" frameX="-14" frameY="-7" frameWidth="814" frameHeight="702"/>
+	<SubTexture name="reaperleft0000" x="3203" y="1402" width="584" height="699" frameX="-1" frameY="0" frameWidth="585" frameHeight="699"/>
+	<SubTexture name="reaperleft0001" x="3787" y="1402" width="585" height="698" frameX="0" frameY="-1" frameWidth="585" frameHeight="699"/>
+	<SubTexture name="reaperleft0002" x="4372" y="1402" width="584" height="696" frameX="0" frameY="-3" frameWidth="585" frameHeight="699"/>
+	<SubTexture name="reaperleft0003" x="4956" y="1402" width="584" height="696" frameX="0" frameY="-3" frameWidth="585" frameHeight="699"/>
+	<SubTexture name="reaperleft0004" x="4956" y="1402" width="584" height="696" frameX="0" frameY="-3" frameWidth="585" frameHeight="699"/>
+	<SubTexture name="reaperright0000" x="5540" y="1402" width="714" height="656" frameX="-10" frameY="-10" frameWidth="724" frameHeight="666"/>
+	<SubTexture name="reaperright0001" x="6254" y="1402" width="715" height="660" frameX="-7" frameY="-6" frameWidth="724" frameHeight="666"/>
+	<SubTexture name="reaperright0002" x="6969" y="1402" width="717" height="663" frameX="-4" frameY="-3" frameWidth="724" frameHeight="666"/>
+	<SubTexture name="reaperright0003" x="0" y="2101" width="719" height="666" frameX="0" frameY="0" frameWidth="724" frameHeight="666"/>
+	<SubTexture name="reaperright0004" x="719" y="2101" width="719" height="666" frameX="0" frameY="0" frameWidth="724" frameHeight="666"/>
+	<SubTexture name="reaperup0000" x="1438" y="2101" width="458" height="743" frameX="0" frameY="-4" frameWidth="542" frameHeight="755"/>
+	<SubTexture name="reaperup0001" x="1896" y="2101" width="452" height="749" frameX="-6" frameY="0" frameWidth="542" frameHeight="755"/>
+	<SubTexture name="reaperup0002" x="2348" y="2101" width="451" height="741" frameX="-7" frameY="-10" frameWidth="542" frameHeight="755"/>
+	<SubTexture name="reaperup0003" x="2799" y="2101" width="450" height="743" frameX="-8" frameY="-10" frameWidth="542" frameHeight="755"/>
+	<SubTexture name="reaperup0004" x="3249" y="2101" width="508" height="746" frameX="-9" frameY="-9" frameWidth="542" frameHeight="755"/>
+	<SubTexture name="reaperup0005" x="3757" y="2101" width="508" height="746" frameX="-9" frameY="-9" frameWidth="542" frameHeight="755"/>
+	<SubTexture name="reaperup0006" x="4265" y="2101" width="533" height="720" frameX="-9" frameY="-35" frameWidth="542" frameHeight="755"/>
+	<SubTexture name="reaperup0007" x="4798" y="2101" width="533" height="720" frameX="-9" frameY="-35" frameWidth="542" frameHeight="755"/>
+</TextureAtlas>

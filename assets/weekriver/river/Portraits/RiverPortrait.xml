@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="RiverPortrait.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="RiverPortrait0000" x="0" y="0" width="327" height="574"/>
+	<SubTexture name="RiverPortrait0001" x="327" y="0" width="327" height="574"/>
+	<SubTexture name="RiverPortrait0002" x="654" y="0" width="327" height="574"/>
+	<SubTexture name="RiverPortrait0003" x="981" y="0" width="327" height="574"/>
+</TextureAtlas>
