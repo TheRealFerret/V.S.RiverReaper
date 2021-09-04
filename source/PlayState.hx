@@ -342,14 +342,29 @@ class PlayState extends MusicBeatState
 		//dialogue shit
 		switch (songLowercase)
 		{
+			case 'tutorial':
+				dialogue = ["Hey you're pretty cute.", 'Use the arrow keys to keep up \nwith me singing.'];
+			case 'bopeebo':
+				dialogue = [
+					'HEY!',
+					"You think you can just sing\nwith my daughter like that?",
+					"If you want to date her...",
+					"You're going to have to go \nthrough ME first!"
+				];
+			case 'fresh':
+				dialogue = ["Not too shabby boy.", ""];
+			case 'dadbattle':
+				dialogue = [
+					"gah you think you're hot stuff?",
+					"If you can beat me here...",
+					"Only then I will even CONSIDER letting you\ndate my daughter!"
+				];
 			case 'senpai':
 				dialogue = CoolUtil.coolTextFile(Paths.txt('senpai/senpaiDialogue'));
 			case 'roses':
 				dialogue = CoolUtil.coolTextFile(Paths.txt('roses/rosesDialogue'));
 			case 'thorns':
 				dialogue = CoolUtil.coolTextFile(Paths.txt('thorns/thornsDialogue'));
-			case 'the-odyssey':
-				dialogue = CoolUtil.coolTextFile(Paths.txt('the-odyssey/dialogue1'));
 		}
 
 		//defaults if no stage was found in chart
@@ -1112,8 +1127,6 @@ class PlayState extends MusicBeatState
 					FlxG.sound.play(Paths.sound('ANGRY'));
 					schoolIntro(doof);
 				case 'thorns':
-					schoolIntro(doof);
-				case 'the-odyssey':
 					schoolIntro(doof);
 				default:
 					startCountdown();
